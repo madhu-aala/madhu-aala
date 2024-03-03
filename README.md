@@ -30,19 +30,19 @@
 package com.java.bio;
 
 public class MyProfile {
-  private String name;
+  private final String name;
   private String title;
   private String[] skills;
 	
-public MyProfile(String name, String title, String[] socialLinks) {
+public MyProfile(String name, String title, String[] skills) {
   this.name = name;
   this.title = title;
-  this.skills = socialLinks;
+  this.skills = skills;
 }
 public void displayProfile() {
   System.out.println("Name: " + name + "\n" + "Title: " + title + "\n" + "Technical Skills:");
-  for (String link : skills) {
-  System.out.println("> " + link);
+  for (String techSkills : skills) {
+  System.out.println("> " + techSkills);
   }
 }
 public static void main(String[] args) {
@@ -56,7 +56,7 @@ public static void main(String[] args) {
    "Development Tools: Eclipse",
    "Version Control System: CVS & Github",
    "API Testing: Postman"
-  };
+};
 MyProfile myProfile = new MyProfile(name, title, skills);
   myProfile.displayProfile();
   }
