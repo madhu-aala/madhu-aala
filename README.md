@@ -51,13 +51,13 @@ public class MyProfile {
 		String name = "Madhu Aala";
 		String title = "Java Developer";
 		String[] skills = {
-				"Language: Java",
-				"Database: Oracle SQL",
-				"Framework: Struts",
-				"Web Technologies: HTML, CSS & JS",
-				"Development Tools: Eclipse",
-				"Version Control System: CVS & Github",
-				"API Testing: Postman"
+			"Language: Java",
+			"Database: Oracle SQL",
+			"Framework: Struts",
+			"Web Technologies: HTML, CSS & JS",
+			"Development Tools: Eclipse",
+			"Version Control System: CVS & Github",
+			"API Testing: Postman"
 		};
 		MyProfile myProfile = new MyProfile(name, title, skills);
 		myProfile.displayProfile();
