@@ -62,13 +62,11 @@ MyProfile myProfile = new MyProfile(name, title, skills);
   }
 }
 ```
+<div align="center">
+  <p>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu-aala" alt="madhu-aala" />
+	<img src="https://github-readme-stats.vercel.app/api?username=madhu-aala&show_icons=true&locale=en" alt="madhu-aala" />
+  </p>
 
-<p>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhu-aala&" alt="madhu-aala" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhu-aala&show_icons=true&locale=en" alt="madhu-aala" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu-aala&show_icons=true&layout=compact&hide_border=true)](https://github.com/madhu-aala/github-readme-stats)
-
-</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu-aala&show_icons=true&layout=compact&hide_border=true)](https://github.com/madhu-aala/github-readme-stats)
+</div>
