@@ -23,28 +23,45 @@
    
 ```js
 /**
- * @ClassName: Bio
- *
- * @Author: Madhu A
+ * 
+ * @author: Madhu Aala
  */
 
 package com.java.bio;
 
-import java.util.SoftwareDeveloper;
-
-class Bio extends SoftwareDeveloper {
-name     = 'Madhu Aala';
-title    = 'Java Developer';
-}
-
-class Skills extends SoftwareDeveloper {
-language = ['Java'];
-database = ['Oracle SQL'];
-framework = ['Struts'];
-webTechnologies = ['HTML', 'CSS', 'JS', 'AJAX'];
-developmentTools = ['Eclipse'];
-versionControlSystem = ['CVS', 'Github'];
-apiTesting = ['Postman'];
+public class MyProfile {
+	private String name;
+	private String title;
+	private String[] skills;
+	
+	public MyProfile(String name, String title, String[] socialLinks) {
+		this.name = name;
+		this.title = title;
+		this.skills = socialLinks;
+	}
+	public void displayProfile() {
+		System.out.println("Name: " + name);
+		System.out.println("title: " + title);
+		System.out.println("Skills:");
+		for (String link : skills) {
+			System.out.println("> " + link);
+		}
+	}
+	public static void main(String[] args) {
+		String name = "Madhu Aala";
+		String title = "Java Developer";
+		String[] skills = {
+				"Language: Java",
+				"Database: Oracle SQL",
+				"Framework: Struts",
+				"Web Technologies: HTML, CSS & JS",
+				"Development Tools: Eclipse",
+				"Version Control System: CVS & Github",
+				"API Testing: Postman"
+		};
+		MyProfile myProfile = new MyProfile(name, title, skills);
+		myProfile.displayProfile();
+	}
 }
 ```
 
