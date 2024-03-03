@@ -1,7 +1,7 @@
 <p align="center" >
    <samp>
    Hi 👋, I'm  <em>Madhu Aala</em>.
-   <br/> Java DEveloper | ₿lockchain Ξnthusiast. <br/>
+   <br/> Java Developer | ₿lockchain Ξnthusiast. <br/>
    </samp>
 </p>
 
