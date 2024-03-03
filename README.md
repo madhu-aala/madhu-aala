@@ -36,7 +36,8 @@ language = ['Java'];
 database = ['Oracle SQL'];
 framework = ['Struts'];
 webTechnologies = ['HTML', 'CSS', 'JS', 'AJAX'];
-developemntTools = ['Eclipse', 'Github'];
+developmentTools = ['Eclipse'];
+versionControlSystem = ['CVS', 'Github'];
 apiTesting = ['Postman'];
 }
 ```
