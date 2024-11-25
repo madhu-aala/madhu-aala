@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
-  <li>I'm Madhu, a Software Engineer with over 1.5+ years of experience working in the Struts framework and Java.</li>
+  <li>I'm Madhu, a Software Engineer with over 2+ years of experience working in the Struts framework and Java.</li>
   <li>Checkout my GitHub repositories <a href = "https://github.com/madhu-aala/Core-Java">Core Java</a>, <a href = "https://github.com/madhu-aala/holdings">Holdings</a> and <a href = "https://github.com/madhu-aala/Bitcoin-Balance-Fetcher">Bitcoin Balance Fetcher</a>.</li>
-  <li>Connect with me on <a href="https://www.linkedin.com/in/madhu-aala/">LinkedIn</a> and <a href="https://x.com/madhu_aala">X</a></li>
+  <li>Connect with me on <a href="https://www.linkedin.com/in/madhu-aala/">LinkedIn</a> and <a href="https://x.com/imMadhuA">X</a></li>
 </ul>
 
 &nbsp;![](https://komarev.com/ghpvc/?username=madhu-aala&color=brightgreen)
