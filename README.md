@@ -5,7 +5,7 @@
   <li>Check out my GitHub
     <a href="https://github.com/madhu-aala/repos"> repositories</a>.
   </li>
-  <li>Connect with me on 
+  <li>You can find me on 
     <a href="https://www.linkedin.com/in/madhu-aala/">LinkedIn</a> and 
     <a href="https://x.com/imMadhuA">X</a>.
   </li>
