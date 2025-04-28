@@ -7,7 +7,7 @@
   </li>
   <li>You can find me on 
     <a href="https://www.linkedin.com/in/madhu-aala/">LinkedIn</a> and 
-    <a href="https://x.com/imMadhuA">X</a>.
+    <a href="https://x.com/__madhua">X</a>.
   </li>
 </ul>
 
