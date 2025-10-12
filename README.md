@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, Welcome to my GitHub page!</h2>
 
 <ul>
-  <li>I'm Madhu, a Software Developer with over 2 years of experience working with the Struts framework and Java.</li>
+  <li>I'm Madhu, a Software Developer with over 3 years of experience in Java and Enterprise Application Development.</li>
   <li>Check out my GitHub
     <a href="https://github.com/madhu-aala/repos"> repositories</a>.
   </li>
