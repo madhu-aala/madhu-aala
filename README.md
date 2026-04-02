@@ -33,9 +33,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madhu-aala&hide_border=true" />
 </p>
-
-<!-- Activity Graph -->
-
-<p align="center">
-  z
-</p>
