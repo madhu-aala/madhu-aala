@@ -18,7 +18,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhu-aala&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu-aala&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhu-aala&layout=compact&hide_border=true&langs_count=8&theme=transparent&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhu-aala&show_icons=true&locale=en&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu-aala&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
