@@ -3,7 +3,7 @@
 <ul>
   <li>I'm Madhu, a Software Developer with over 3 years of experience in Java and Enterprise Application Development.</li>
   <li>Check out my GitHub
-    <a href="https://github.com/madhu-aala?tab=repos"> repositories</a>.
+    <a href="https://github.com/madhu-aala/repos"> repositories</a>.
   </li>
   <li>You can find me on 
     <a href="https://www.linkedin.com/in/madhu-aala/">LinkedIn</a> and 
