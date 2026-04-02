@@ -31,11 +31,11 @@
 <!-- Streak -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madhu-aala&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=madhu-aala&hide_border=true" />
 </p>
 
 <!-- Activity Graph -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu-aala&theme=github-compact&hide_border=true" />
+  z
 </p>
