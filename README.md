@@ -3,7 +3,7 @@
 <ul>
   <li>I'm Madhu, a Software Developer with over 3 years of experience in Java and Enterprise Application Development.</li>
   <li>Check out my GitHub
-    <a href="https://github.com/madhu-aala/repos"> repositories</a>.
+    <a href="https://github.com/madhu-aala?tab=repos"> repositories</a>.
   </li>
   <li>You can find me on 
     <a href="https://www.linkedin.com/in/madhu-aala/">LinkedIn</a> and 
@@ -12,13 +12,30 @@
 </ul>
 
 <!-- Profile Views -->
-<p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=madhu-aala&color=brightgreen" alt="Profile Views" />
 </p>
 
 <!-- GitHub Stats -->
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhu-aala&layout=compact&hide_border=true&langs_count=8&theme=transparent&cache_seconds=1800" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhu-aala&show_icons=true&locale=en&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu-aala&theme=default&hide_border=true" alt="GitHub Streak" />
+  <!-- Stats -->
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhu-aala&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
+
+  <!-- Languages -->
+
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhu-aala&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+</p>
+
+<!-- Streak -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=madhu-aala&theme=transparent&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu-aala&theme=github-compact&hide_border=true" />
 </p>
